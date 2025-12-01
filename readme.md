@@ -68,6 +68,25 @@ Sämtliche Daten werden automatisch im JSON-Format gespeichert. Beim Schließen 
 
 ---
 
+## Screenshots
+
+### LEK hinzufügen
+![LEK hinzufügen](screenshots/1_tab.png)
+
+### Übersicht
+![Übersicht](screenshots/2_tab.png)
+
+### Fach-Details
+![Fach-Details](screenshots/3_tab.png)
+
+### Statistiken
+![Statistiken](screenshots/4_tab.png)
+
+### Einstellungen
+![Einstellungen](screenshots/5_tab.png)
+
+---
+
 ## Technische Umsetzung
 
 ### Architektur
@@ -220,5 +239,6 @@ Entwickelt von **Rosy Warny** im Rahmen der Umschulung zum Fachinformatiker für
 ---
 
 ## Lizenz
+
 
 Dieses Projekt ist unter der MIT-Lizenz lizenziert. Siehe [LICENSE](LICENSE) für weitere Details.
